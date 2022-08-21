@@ -1,0 +1,8 @@
+<suite name="Log_In Functionality Test" >
+    <test name="LogIn Test" >
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test.LoginTest"></class>
+        </classes>
+    </test>
+</suite>
